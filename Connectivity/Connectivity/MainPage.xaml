@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Connectivity.MainPage">
+
+    <StackLayout>
+        <ImageButton Source="https://image.freepik.com/free-vector/abstract-background-with-dark-square-pattern_1048-1391.jpg" HeightRequest="300" WidthRequest="300"/>
+
+    </StackLayout>
+</ContentPage>
